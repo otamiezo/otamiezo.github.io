@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otamiezo.github.io/elS/sitemap_index.txt
+Sitemap: https://otamiezo.github.io/nLj/sitemap_index.txt
+Sitemap: https://otamiezo.github.io/pLs/sitemap_index.txt
+Sitemap: https://otamiezo.github.io/rtw/sitemap_index.txt
